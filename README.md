@@ -5,6 +5,6 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
-| 1inch | Defi | [link](https://dehacker.io/audit_reports_store/1inch.pdf) | 2022-04-02 |
-| TrustFi | Defi | [link](https://dehacker.io/audit_reports_store/trustfi.pdf) | 2022-04-01 |
-| CheersLand | GameFi | [link](https://dehacker.io/audit_reports_store/cheersland.pdf) | 2022-03-31 |
+| 1inch | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/1inch.pdf) | 2022-04-02 |
+| TrustFi | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/trustfi.pdf) | 2022-04-01 |
+| CheersLand | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/cheersland.pdf) | 2022-03-31 |
