@@ -13,6 +13,6 @@
 | TrustFi | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Trustfi.pdf) | 2022-04-01 |
 | CheersLand | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/CheersLand.pdf) | 2022-03-31 |
 | API3 | Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/API3.pdf) | 2022-02-07 |
-
+| Llluvium | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/illuvium.pdf) | 2022-10-21 |
 #
 Audits performed by DeHacker
