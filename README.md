@@ -14,5 +14,6 @@
 | CheersLand | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/CheersLand.pdf) | 2022-03-31 |
 | API3 | Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/API3.pdf) | 2022-02-07 |
 | Llluvium | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Illuvium.pdf) | 2022-10-21 |
+| Trust Wallet | Token | [link](https://github.com/DeHacker-io/audits_public/blob/main/TWT%20Token.pdf) | 2022-07-09 |
 #
 Audits performed by DeHacker
