@@ -20,5 +20,6 @@
 | Axelar Network| Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/Axelar%20Network.pdf) | 2022-07-29 |
 | UniCrypt | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/UniCrypt.pdf) | 2023-01-04 |
 | Balancer | Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/Balancer.pdf) | 2022-07-30 |
+| LTO | NFT | [link](https://github.com/DeHacker-io/audits_public/blob/main/LTO.pdf) | 2023-02-27 |
 #
 Audits performed by DeHacker
