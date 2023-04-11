@@ -19,5 +19,6 @@
 | Immutable X | Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/Immutable%20X.pdf) | 2023-01-17 |
 | Axelar Network| Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/Axelar%20Network.pdf) | 2022-07-29 |
 | UniCrypt | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/UniCrypt.pdf) | 2023-01-04 |
+| Balancer | Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/Balancer.pdf) | 2022-07-30 |
 #
 Audits performed by DeHacker
