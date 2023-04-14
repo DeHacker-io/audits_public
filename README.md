@@ -23,5 +23,6 @@
 | LTO | NFT | [link](https://github.com/DeHacker-io/audits_public/blob/main/LTO.pdf) | 2023-02-27 |
 | Oraichain | Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/Oraichain.pdf) | 2022-10-09 |
 | SXP | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/SXP.pdf) | 2022-08-08 |
+| Kunci Coin | Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/Kunci%20Coin.pdf) | 2022-10-10 |
 #
 Audits performed by DeHacker
