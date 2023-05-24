@@ -27,5 +27,6 @@
 | Kunci Coin | Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/Kunci%20Coin.pdf) | 2022-10-10 |
 | Rubic Finance | Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/Rubic%20Finance.pdf) | 2022-10-11 |
 | ZERONE | DEX | [link](https://github.com/DeHacker-io/audits_public/blob/main/ZERONE.pdf) | 2023-05-19 |
+| Themis Pro | DEX | [link](https://github.com/DeHacker-io/audits_public/blob/main/Themis Pro.pdf) | 2023-05-24 |
 #
 Audits performed by DeHacker
