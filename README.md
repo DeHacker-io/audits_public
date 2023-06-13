@@ -5,9 +5,14 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| TALKI | Token | [link](https://github.com/DeHacker-io/audits_public/blob/main/TALKI.pdf) | 2023-06-13 |
 | ZERONE | DEX | [link](https://github.com/DeHacker-io/audits_public/blob/main/ZERONE.pdf) | 2023-05-25 |
 | Themis Pro | DEX | [link](https://github.com/DeHacker-io/audits_public/blob/main/Themis.pdf) | 2023-05-24 |
+| Swash | Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/Swash.pdf) | 2023-04-07 |
+| Marlin | Token | [link](https://github.com/DeHacker-io/audits_public/blob/main/Marlin.pdf) | 2023-03-26 |
+| Oraichain | Token | [link](https://github.com/DeHacker-io/audits_public/blob/main/Oraichain.pdf) | 2023-03-26 |
 | OpenFi | DEX | [link](https://github.com/DeHacker-io/audits_public/blob/main/OpenFi.pdf) | 2023-03-19 |
+| Paraswap | DEX | [link](https://github.com/DeHacker-io/audits_public/blob/main/Paraswap.pdf) | 2023-03-10 |
 | LTO | NFT | [link](https://github.com/DeHacker-io/audits_public/blob/main/LTO.pdf) | 2023-02-27 |
 | Immutable X | Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/Immutable%20X.pdf) | 2023-01-17 |
 | UniCrypt | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/UniCrypt.pdf) | 2023-01-04 |
