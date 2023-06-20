@@ -6,14 +6,23 @@
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
 | TALKI | Token | [link](https://github.com/DeHacker-io/audits_public/blob/main/TALKI.pdf) | 2023-06-13 |
+| Morpheus | Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/Morpheus.pdf) | 2023-06-10 |
 | ZERONE | DEX | [link](https://github.com/DeHacker-io/audits_public/blob/main/ZERONE.pdf) | 2023-05-25 |
 | Themis Pro | DEX | [link](https://github.com/DeHacker-io/audits_public/blob/main/Themis.pdf) | 2023-05-24 |
+| Everdome | Gaming | [link](https://github.com/DeHacker-io/audits_public/blob/main/Everdome.pdf) | 2023-05-20 |
+| SxpSwap | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/SxpSwap.pdf) | 2023-04-10 |
 | Swash | Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/Swash.pdf) | 2023-04-07 |
+| Voxel | Gaming | [link](https://github.com/DeHacker-io/audits_public/blob/main/Voxel.pdf) | 2023-03-27 |
 | Marlin | Token | [link](https://github.com/DeHacker-io/audits_public/blob/main/Marlin.pdf) | 2023-03-26 |
 | Oraichain | Token | [link](https://github.com/DeHacker-io/audits_public/blob/main/Oraichain.pdf) | 2023-03-26 |
+| LIFE | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/LIFE.pdf) | 2023-03-25 |
 | OpenFi | DEX | [link](https://github.com/DeHacker-io/audits_public/blob/main/OpenFi.pdf) | 2023-03-19 |
+| DMTR | Token | [link](https://github.com/DeHacker-io/audits_public/blob/main/DMTR.pdf) | 2023-03-13 |
 | Paraswap | DEX | [link](https://github.com/DeHacker-io/audits_public/blob/main/Paraswap.pdf) | 2023-03-10 |
+| Singularity | DAO | [link](https://github.com/DeHacker-io/audits_public/blob/main/Singularity.pdf) | 2023-03-10 |
+| Opulous | Staking | [link](https://github.com/DeHacker-io/audits_public/blob/main/Opulous.pdf) | 2023-03-05 |
 | LTO | NFT | [link](https://github.com/DeHacker-io/audits_public/blob/main/LTO.pdf) | 2023-02-27 |
+| MetaBeat | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/MetaBeat.pdf) | 2023-02-13 |
 | Immutable X | Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/Immutable%20X.pdf) | 2023-01-17 |
 | UniCrypt | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/UniCrypt.pdf) | 2023-01-04 |
 | Llluvium | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Illuvium.pdf) | 2022-10-21 |
@@ -33,6 +42,7 @@
 | CheersLand | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/CheersLand.pdf) | 2022-03-31 |
 | API3 | Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/API3.pdf) | 2022-02-07 |
 | VideoFi | X2Earn | [link](https://github.com/DeHacker-io/audits_public/blob/main/VideoFi.pdf) | 2022-01-06 |
+
 
 
 
