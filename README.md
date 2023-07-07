@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Shentu | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Shentu.pdf) | 2023-07-7 |
 | TALKI | Token | [link](https://github.com/DeHacker-io/audits_public/blob/main/TALKI.pdf) | 2023-06-13 |
 | Morpheus | Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/Morpheus.pdf) | 2023-06-10 |
 | ZERONE | DEX | [link](https://github.com/DeHacker-io/audits_public/blob/main/ZERONE.pdf) | 2023-05-25 |
