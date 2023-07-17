@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Verse Farms | Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/Bitcoin.com.pdf) | 2023-07-17 |
 | ApeCoin | ERC-20 | [link](https://github.com/DeHacker-io/audits_public/blob/main/ApeCoin.pdf) | 2023-07-13 |
 | Shentu | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Shentu.pdf) | 2023-07-7 |
 | TALKI | Token | [link](https://github.com/DeHacker-io/audits_public/blob/main/TALKI.pdf) | 2023-06-13 |
