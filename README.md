@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| ZKSpace | Dex | [link](https://github.com/DeHacker-io/audits_public/blob/main/ZKSpace.pdf) | 2023-07-18 |
 | Venus | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Venus.pdf) | 2023-07-18 |
 | Verse Farms | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Bitcoin.com.pdf) | 2023-07-17 |
 | ApeCoin | ERC-20 | [link](https://github.com/DeHacker-io/audits_public/blob/main/ApeCoin.pdf) | 2023-07-13 |
