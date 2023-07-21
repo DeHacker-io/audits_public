@@ -5,7 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
-| DODO | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/DODO%20DEX.pdf) | 2023-07-21 |
+| DODO DEX | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/DODO%20DEX.pdf) | 2023-07-21 |
 | FortKnoxster | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/FortKnoxster%20DieFi.pdf) | 2023-07-21 |
 | ZKSpace | Dex | [link](https://github.com/DeHacker-io/audits_public/blob/main/ZKSpace.pdf) | 2023-07-18 |
 | Venus | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Venus.pdf) | 2023-07-18 |
