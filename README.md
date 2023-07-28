@@ -5,6 +5,9 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Fabwelt Token | Dex | [link](https://github.com/DeHacker-io/audits_public/blob/main/Fabwelt%20Token.pdf) | 2023-07-28 |
+| Vita Inu | meme | [link](https://github.com/DeHacker-io/audits_public/blob/main/Vita%20Inu.pdf) | 2023-07-28 |
+| Vulcan Forged | Gamefi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Vulcan%20Forged.pdf) | 2023-07-28 |
 | DODO DEX | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/DODO%20DEX.pdf) | 2023-07-21 |
 | FortKnoxster | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/FortKnoxster%20DieFi.pdf) | 2023-07-21 |
 | ZKSpace | Dex | [link](https://github.com/DeHacker-io/audits_public/blob/main/ZKSpace.pdf) | 2023-07-18 |
