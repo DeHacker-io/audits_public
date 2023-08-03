@@ -6,7 +6,7 @@
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
 | MILC | Meme | [link](https://github.com/DeHacker-io/audits_public/blob/main/MILC.pdf) | 2023-08-03 |
-| DAO Maker | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/DAO%20Maker.pdf) | 2023-08-03 |
+| DAO Maker | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/DAO%20Maker.pdf) | 2023-08-01 |
 | Fabwelt Token | Dex | [link](https://github.com/DeHacker-io/audits_public/blob/main/Fabwelt%20Token.pdf) | 2023-07-28 |
 | Vita Inu | meme | [link](https://github.com/DeHacker-io/audits_public/blob/main/Vita%20Inu.pdf) | 2023-07-28 |
 | Vulcan Forged | Gamefi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Vulcan%20Forged.pdf) | 2023-07-28 |
