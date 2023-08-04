@@ -5,6 +5,8 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Decentraland | NFT | [link](https://github.com/DeHacker-io/audits_public/blob/Decentraland.pdf) | 2023-08-04 |
+| Artyfact | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Artyfact.pdf) | 2023-08-04 |
 | MILC | Meme | [link](https://github.com/DeHacker-io/audits_public/blob/main/MILC.pdf) | 2023-08-03 |
 | DAO Maker | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/DAO%20Maker.pdf) | 2023-08-01 |
 | Fabwelt Token | Dex | [link](https://github.com/DeHacker-io/audits_public/blob/main/Fabwelt%20Token.pdf) | 2023-07-28 |
