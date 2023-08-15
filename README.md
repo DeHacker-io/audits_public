@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Meld | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Meld.pdf) | 2023-08-15 |
 | Polkamarkets | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Polkamarkets.pdf) | 2023-08-10 |
 | Kishu Inu | Meme | [link](https://github.com/DeHacker-io/audits_public/blob/main/Kishu%20Inu.pdf)| 2023-08-09 |
 | CEEK | NFT | [link](https://github.com/DeHacker-io/audits_public/blob/main/CEEK.pdf) | 2023-08-08 |
