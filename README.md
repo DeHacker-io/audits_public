@@ -5,6 +5,10 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Hillstone Finance | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Hillstone Finance.pdf) | 2023-08-18 |
+| Beyond Protocol | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Beyond Protocol.pdf) | 2023-08-15 |
+| Oggy Inu | Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/Oggy Inu.pdf) | 2023-08-17 |
+| Kiwigo | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Kiwigo.pdf) | 2023-08-16 |
 | Meld | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Meld.pdf) | 2023-08-15 |
 | Polkamarkets | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Polkamarkets.pdf) | 2023-08-10 |
 | Kishu Inu | Meme | [link](https://github.com/DeHacker-io/audits_public/blob/main/Kishu%20Inu.pdf)| 2023-08-09 |
