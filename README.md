@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Friend3 | Socialfi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Friend3.pdf) | 2023-08-24 |
 | Hillstone Finance | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Hillstone%20Finance.pdf) | 2023-08-18 |
 | Beyond Protocol | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Beyond%20Protocol.pdf) | 2023-08-15 |
 | Oggy Inu | Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/Oggy%20Inu.pdf) | 2023-08-17 |
