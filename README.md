@@ -5,6 +5,9 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Self Crypto | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Self%20Crypto.pdf) | 2023-09-13 |
+| Iskra | NFT | [link](https://github.com/DeHacker-io/audits_public/blob/main/Iskra.pdf) | 2023-09-13 |
+| Kissantoken | Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/Kissantoken.pdf) | 2023-09-13 |
 | GoMining | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/GoMining.pdf) | 2023-09-04 |
 | Fwc Token | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/fwc%20token.pdf) | 2023-09-04 |
 | LABEL | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/LABEL.pdf) | 2023-09-04 |
