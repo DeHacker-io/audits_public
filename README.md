@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| JusticeDAO | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/JusticeDAO.pdf) | 2023-10-09 |
 | Mixmarvel | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/MixMarvel.pdf) | 2023-10-09 |
 | CeluvPlay | Infrastructure | [link](https://github.com/DeHacker-io/audits_public/blob/main/CeluvPlay.pdf) | 2023-10-09 |
 | Self Crypto | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Self%20Crypto.pdf) | 2023-09-13 |
