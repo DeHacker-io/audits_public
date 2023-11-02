@@ -5,6 +5,9 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Guild Token | NFT | [link](https://github.com/DeHacker-io/audits_public/blob/main/Guild%20Token.pdf) | 2023-11-02 |
+| KATANA INU | NFT | [link](https://github.com/DeHacker-io/audits_public/blob/main/KATANA%20INU.pdf) | 2023-11-02 |
+| Gptguru | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Gptguru.pdf) | 2023-11-02 |
 | C-Patex | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/C-patex.pdf) | 2023-11-02 |
 | JusticeDAO | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/JusticeDAO.pdf) | 2023-10-09 |
 | Mixmarvel | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/MixMarvel.pdf) | 2023-10-09 |
