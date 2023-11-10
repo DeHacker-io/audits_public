@@ -5,6 +5,8 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Seascape | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Seascape.pdf) | 2023-11-10 |
+| BENFT | NFT | [link](https://github.com/DeHacker-io/audits_public/blob/main/BENFT.pdf) | 2023-11-10 |
 | Guild Token | NFT | [link](https://github.com/DeHacker-io/audits_public/blob/main/Guild%20Token.pdf) | 2023-11-02 |
 | KATANA INU | NFT | [link](https://github.com/DeHacker-io/audits_public/blob/main/KATANA%20INU.pdf) | 2023-11-02 |
 | Gptguru | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Gptguru.pdf) | 2023-11-02 |
