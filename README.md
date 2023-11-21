@@ -5,6 +5,9 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Liquidus Finance | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Liquidus%20Finance.pdf) | 2023-11-21 |
+| Taboo | ERC-20 | [link](https://github.com/DeHacker-io/audits_public/blob/main/Taboo.pdf) | 2023-11-21 |
+| Kiwigo | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Kiwigo.pdf) | 2023-11-21 |
 | Seascape | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Seascape.pdf) | 2023-11-10 |
 | BENFT | NFT | [link](https://github.com/DeHacker-io/audits_public/blob/main/BENFT.pdf) | 2023-11-10 |
 | Guild Token | NFT | [link](https://github.com/DeHacker-io/audits_public/blob/main/Guild%20Token.pdf) | 2023-11-02 |
