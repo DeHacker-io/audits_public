@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Zam.io | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Zam.io.pdf) | 2023-11-30 |
 | Liquidus Finance | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Liquidus%20Finance.pdf) | 2023-11-21 |
 | Taboo | ERC-20 | [link](https://github.com/DeHacker-io/audits_public/blob/main/Taboo.pdf) | 2023-11-21 |
 | Kiwigo | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Kiwigo.pdf) | 2023-11-21 |
