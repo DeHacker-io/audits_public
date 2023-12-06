@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| LOVELY Inu | MEME | [link](https://github.com/DeHacker-io/audits_public/blob/main/LOVELY%20Inu.pdf) | 2023-12-06 |
 | EqiToken | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/EqiToken.pdf) | 2023-12-05 |
 | Zam.io | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Zam.io.pdf) | 2023-11-30 |
 | Liquidus Finance | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Liquidus%20Finance.pdf) | 2023-11-21 |
