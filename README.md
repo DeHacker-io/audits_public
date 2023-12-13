@@ -5,6 +5,8 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Bifrost | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Bifrost.pdf) | 2023-12-13 |
+| TRVL | ERC-20 | [link](https://github.com/DeHacker-io/audits_public/blob/main/TRVL.pdf) | 2023-12-13 |
 | SKYPlay | Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/SKYPlay.pdf) | 2023-12-07 |
 | LOVELY Inu | MEME | [link](https://github.com/DeHacker-io/audits_public/blob/main/LOVELY%20Inu.pdf) | 2023-12-06 |
 | EqiToken | Defi | [link](https://github.com/DeHacker-io/audits_public/blob/main/EqiToken.pdf) | 2023-12-05 |
