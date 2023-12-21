@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Rune.Game | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Rune.Game.pdf) | 2023-12-21 |
 | Bifrost | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Bifrost.pdf) | 2023-12-13 |
 | TRVL | ERC-20 | [link](https://github.com/DeHacker-io/audits_public/blob/main/TRVL.pdf) | 2023-12-13 |
 | SKYPlay | Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/SKYPlay.pdf) | 2023-12-07 |
