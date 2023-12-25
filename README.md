@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| BWinkyverse | NFT | [link](https://github.com/DeHacker-io/audits_public/blob/main/Winkyverse.pdf) | 2023-12-25 |
 | Bad Idea AI | AI | [link](https://github.com/DeHacker-io/audits_public/blob/main/Bad%20Idea%20AI.pdf) | 2023-12-22 |
 | Rune.Game | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Rune.Game.pdf) | 2023-12-21 |
 | Bifrost | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Bifrost.pdf) | 2023-12-13 |
