@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| coterra | ERC-20 | [link](https://github.com/DeHacker-io/audits_public/blob/main/ecoterra.pdf) | 2024-01-04 |
 | DeepBrain Chain | ERC-20 | [link](https://github.com/DeHacker-io/audits_public/blob/main/DeepBrain%20Chain.pdf) | 2023-12-29 |
 | Winkyverse | NFT | [link](https://github.com/DeHacker-io/audits_public/blob/main/Winkyverse.pdf) | 2023-12-25 |
 | Bad Idea AI | AI | [link](https://github.com/DeHacker-io/audits_public/blob/main/Bad%20Idea%20AI.pdf) | 2023-12-22 |
