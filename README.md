@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| AIRTNT | NFT | [link](https://github.com/DeHacker-io/audits_public/blob/main/AIRTNT%20-%20Audit.pdf) | 2024-01-23 |
 | Metars Genesis | ERC-20 | [link](https://github.com/DeHacker-io/audits_public/blob/main/Metars%20Genesis.pdf) | 2024-01-09 |
 | ecoterra | ERC-20 | [link](https://github.com/DeHacker-io/audits_public/blob/main/ecoterra.pdf) | 2024-01-04 |
 | DeepBrain Chain | ERC-20 | [link](https://github.com/DeHacker-io/audits_public/blob/main/DeepBrain%20Chain.pdf) | 2023-12-29 |
