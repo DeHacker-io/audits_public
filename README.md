@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Pomerium | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Pomerium.pdf) | 2024-02-2 |
 | bloXmove | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/bloXmove.pdf) | 2024-01-29 |
 | AIRTNT | NFT | [link](https://github.com/DeHacker-io/audits_public/blob/main/AIRTNT%20-%20Audit.pdf) | 2024-01-23 |
 | Metars Genesis | ERC-20 | [link](https://github.com/DeHacker-io/audits_public/blob/main/Metars%20Genesis.pdf) | 2024-01-09 |
