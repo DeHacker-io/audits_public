@@ -5,6 +5,8 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| HiveSwap | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/HiveSwap.pdf) | 2024-02-18 |
+| ButterSwap | Dex | [link](https://github.com/DeHacker-io/audits_public/blob/main/ButterSwap.pdf) | 2024-02-18 |
 | Onnano | Token | [link](https://github.com/DeHacker-io/audits_public/blob/main/Onnano.pdf) | 2024-02-4 |
 | Pomerium | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Pomerium.pdf) | 2024-02-2 |
 | bloXmove | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/bloXmove.pdf) | 2024-01-29 |
