@@ -5,7 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
-| Alium Collectible | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/AliumCollectible.pdf) | 2024-02-24 |
+| AliumCollectible | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/AliumCollectible.pdf) | 2024-02-24 |
 | HiveSwap | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/HiveSwap.pdf) | 2024-02-18 |
 | ButterSwap | Dex | [link](https://github.com/DeHacker-io/audits_public/blob/main/ButterSwap.pdf) | 2024-02-18 |
 | Onnano | Token | [link](https://github.com/DeHacker-io/audits_public/blob/main/Onnano.pdf) | 2024-02-4 |
