@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Apecoin | ERC-20 | [link](https://github.com/DeHacker-io/audits_public/blob/main/Apecoin.pdf) | 2024-03-05 |
 | Alium Collectible | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Alium%20Collectible.pdf) | 2024-02-24 |
 | HiveSwap | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/HiveSwap.pdf) | 2024-02-18 |
 | ButterSwap | Dex | [link](https://github.com/DeHacker-io/audits_public/blob/main/ButterSwap.pdf) | 2024-02-18 |
