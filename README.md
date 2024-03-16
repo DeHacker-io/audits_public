@@ -5,7 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
-| Map Protocol Token | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Map%20Protocol%20Token.pdf) | 2024-03-16 |
+| Map Protocol Token | Infrastracture | [link](https://github.com/DeHacker-io/audits_public/blob/main/Map%20Protocol%20Token.pdf) | 2024-03-16 |
 | CoinFLEX | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/CoinFLEX.pdf) | 2024-03-08 |
 | Ethbox | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Ethbox.pdf) | 2024-03-07 |
 | ThunderCore | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/ThunderCore.pdf) | 2024-03-06 |
