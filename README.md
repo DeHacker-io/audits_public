@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| SafePal | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/SafePal.pdf) | 2024-03-19 |
 | Map Protocol Token | Infrastructure | [link](https://github.com/DeHacker-io/audits_public/blob/main/Map%20Protocol%20Token.pdf) | 2024-03-16 |
 | CoinFLEX | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/CoinFLEX.pdf) | 2024-03-08 |
 | Ethbox | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Ethbox.pdf) | 2024-03-07 |
