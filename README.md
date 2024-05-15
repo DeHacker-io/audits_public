@@ -5,7 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
-| Hiveswap HIVP Token | Dex | [link](https://github.com/DeHacker-io/audits_public/blob/main/Hiveswap%20HIVP%20Token%20.pdf) | 2024-05-14 |
+| Hiveswap HIVP Token | Dex | [link](https://github.com/DeHacker-io/audits_public/blob/main/Hiveswap%20HIVP%20Token.pdf) | 2024-05-14 |
 | Gala | Governance | [link](https://github.com/DeHacker-io/audits_public/blob/main/Gala.pdf) | 2024-04-15 |
 | MAPOmnichain | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/MAPOmnichain%20Mos.pdf) | 2024-04-05 |
 | SafePal | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/SafePal.pdf) | 2024-03-19 |
