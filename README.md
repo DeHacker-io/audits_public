@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Hello Pets | Dex | [link](https://github.com/DeHacker-io/audits_public/blob/main/HelloPets.pdf) | 2024-05-27 |
 | Solar Dex | Dex | [link](https://github.com/DeHacker-io/audits_public/blob/main/Solar%20Dex.pdf) | 2024-05-25 |
 | Hiveswap HIVP Token | Dex | [link](https://github.com/DeHacker-io/audits_public/blob/main/Hiveswap%20HIVP%20Token.pdf) | 2024-05-14 |
 | Gala | Governance | [link](https://github.com/DeHacker-io/audits_public/blob/main/Gala.pdf) | 2024-04-15 |
