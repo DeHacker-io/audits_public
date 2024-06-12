@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Exverse | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/LTO.pdf) | 2024-06-12 |
 | Exverse | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Exverse.pdf) | 2024-06-02 |
 | Cipher | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Cipher.pdf) | 2024-05-29 |
 | Hello Pets | Dex | [link](https://github.com/DeHacker-io/audits_public/blob/main/HelloPets.pdf) | 2024-05-27 |
@@ -93,7 +94,6 @@
 | Paraswap | DEX | [link](https://github.com/DeHacker-io/audits_public/blob/main/Paraswap.pdf) | 2023-03-10 |
 | Singularity | DAO | [link](https://github.com/DeHacker-io/audits_public/blob/main/Singularity.pdf) | 2023-03-10 |
 | Opulous | Staking | [link](https://github.com/DeHacker-io/audits_public/blob/main/Opulous.pdf) | 2023-03-05 |
-| LTO | NFT | [link](https://github.com/DeHacker-io/audits_public/blob/main/LTO.pdf) | 2023-02-27 |
 | MetaBeat | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/MetaBeat.pdf) | 2023-02-13 |
 | Immutable X | Others | [link](https://github.com/DeHacker-io/audits_public/blob/main/Immutable%20X.pdf) | 2023-01-17 |
 | UniCrypt | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/UniCrypt.pdf) | 2023-01-04 |
