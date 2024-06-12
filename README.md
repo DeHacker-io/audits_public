@@ -5,7 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
-| Exverse | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/LTO.pdf) | 2024-06-12 |
+| LTO | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/LTO.pdf) | 2024-06-12 |
 | Exverse | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Exverse.pdf) | 2024-06-02 |
 | Cipher | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Cipher.pdf) | 2024-05-29 |
 | Hello Pets | Dex | [link](https://github.com/DeHacker-io/audits_public/blob/main/HelloPets.pdf) | 2024-05-27 |
