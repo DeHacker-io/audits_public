@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Winee3 | SoFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Winee3.pdf) | 2024-06-19 |
 | LTO | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/LTO.pdf) | 2024-06-12 |
 | Exverse | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Exverse.pdf) | 2024-06-02 |
 | Cipher | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Cipher.pdf) | 2024-05-29 |
