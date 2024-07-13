@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Sorta Finance | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Sorta%20Finance.pdf) | 2024-07-13 |
 | Winee3 | SoFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Winee3.pdf) | 2024-06-19 |
 | LTO | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/LTO.pdf) | 2024-06-12 |
 | Exverse | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Exverse.pdf) | 2024-06-02 |
