@@ -5,6 +5,8 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+
+| The Epiko | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/The%20Epiko.pdf) | 2024-07-21 |
 | The SandBox | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/The%20Sandbox.pdf) | 2024-07-15 |
 | Sorta Finance | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Sorta%20Finance.pdf) | 2024-07-13 |
 | Winee3 | SoFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Winee3.pdf) | 2024-06-19 |
