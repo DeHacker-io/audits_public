@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Vola ARK | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Vola%20ARK.pdf) | 2024-07-27 |
 | TLD Coin | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/TLD%20Coin.pdf) | 2024-07-24 |
 | The Epiko | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/The%20Epiko.pdf) | 2024-07-21 |
 | The SandBox | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/The%20Sandbox.pdf) | 2024-07-15 |
