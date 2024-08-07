@@ -7,6 +7,7 @@
 |---|---|---|---|
 | Butter Network TON | Bridge | [link](https://github.com/DeHacker-io/audits_public/blob/main/Butter%20Network%20TON.pdf) | 2024-08-06 |
 | Butter Network | Bridge | [link](https://github.com/DeHacker-io/audits_public/blob/main/Butter%20Network.pdf) | 2024-08-03 |
+| Ice Coin | Token| [link](https://github.com/DeHacker-io/audits_public/blob/main/Ice%20Coin.pdf) | 2024-08-02 |
 | Boundless Network Token | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Boudless%20Network%20Token.pdf) | 2024-08-01 |
 | Vola ARK | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Vola%20ARK.pdf) | 2024-07-27 |
 | TLD Coin | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/TLD%20Coin.pdf) | 2024-07-24 |
