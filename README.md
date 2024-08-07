@@ -14,6 +14,7 @@
 | The Epiko | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/The%20Epiko.pdf) | 2024-07-21 |
 | The SandBox | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/The%20Sandbox.pdf) | 2024-07-15 |
 | Sorta Finance | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Sorta%20Finance.pdf) | 2024-07-13 |
+| BRC Life | SoFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Brc%20Life.pdf) | 2024-07-01 |
 | Winee3 | SoFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Winee3.pdf) | 2024-06-19 |
 | LTO | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/LTO.pdf) | 2024-06-12 |
 | Exverse | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Exverse.pdf) | 2024-06-02 |
