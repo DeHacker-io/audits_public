@@ -23,6 +23,7 @@
 | Solar Dex | Dex | [link](https://github.com/DeHacker-io/audits_public/blob/main/Solar%20Dex.pdf) | 2024-05-25 |
 | Hiveswap HIVP Token | Dex | [link](https://github.com/DeHacker-io/audits_public/blob/main/Hiveswap%20HIVP%20Token.pdf) | 2024-05-14 |
 | Gala | Governance | [link](https://github.com/DeHacker-io/audits_public/blob/main/Gala.pdf) | 2024-04-15 |
+| 1inch | Exchange | [link](https://github.com/DeHacker-io/audits_public/blob/main/1inch%20Exchange.pdf) | 2024-04-10 |
 | MAPOmnichain | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/MAPOmnichain%20Mos.pdf) | 2024-04-05 |
 | SafePal | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/SafePal.pdf) | 2024-03-19 |
 | Map Protocol Token | Infrastructure | [link](https://github.com/DeHacker-io/audits_public/blob/main/Map%20Protocol%20Token.pdf) | 2024-03-16 |
