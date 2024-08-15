@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Smurf Cat | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Smurf%20Cat.pdf) | 2024-08-15 |
 | MPAA | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/MPAA.pdf) | 2024-08-13 |
 | Butter Network TON | Bridge | [link](https://github.com/DeHacker-io/audits_public/blob/main/Butter%20Network%20TON.pdf) | 2024-08-06 |
 | Butter Network | Bridge | [link](https://github.com/DeHacker-io/audits_public/blob/main/Butter%20Network.pdf) | 2024-08-03 |
