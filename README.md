@@ -5,7 +5,8 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
-| Sonet | Token | [link](https://github.com/DeHacker-io/audits_public/blob/main/Sonet.pdf) | 2024-09-010 |
+| Cindex | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Cindex.pdf) | 2024-09-12 |
+| Sonet | Token | [link](https://github.com/DeHacker-io/audits_public/blob/main/Sonet.pdf) | 2024-09-10 |
 | Gamee | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Gamee.pdf) | 2024-09-02 |
 | Megaton Finance | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Megaton%20Finance.pdf) | 2024-08-28 |
 | pTON | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/pTON.pdf) | 2024-08-23 |
