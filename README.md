@@ -5,6 +5,8 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| NAWS.AI | DePin | [link](https://github.com/DeHacker-io/audits_public/blob/main/NAWS.AI.pdf) | 2024-11-5 |
+| CARV | DePin | [link](https://github.com/DeHacker-io/audits_public/blob/main/CARV.pdf) | 2024-11-1 |
 | Atlas Wallet | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Atlas%20Wallet.pdf) | 2024-10-7 |
 | Bidz Coin | Token | [link](https://github.com/DeHacker-io/audits_public/blob/main/Bidz%20Coin.pdf) | 2024-10-4 |
 | Cindex | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Cindex.pdf) | 2024-09-12 |
