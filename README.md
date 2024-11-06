@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Funton Ai | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Funton%20Ai.pdf) | 2024-11-6 |
 | NAWS.AI | DePin | [link](https://github.com/DeHacker-io/audits_public/blob/main/NAWS.AI.pdf) | 2024-11-5 |
 | CARV | DePin | [link](https://github.com/DeHacker-io/audits_public/blob/main/CARV.pdf) | 2024-11-1 |
 | Atlas Wallet | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Atlas%20Wallet.pdf) | 2024-10-7 |
