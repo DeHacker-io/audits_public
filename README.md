@@ -5,7 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
-| Map Protocol Swap | Bridge | [link](https://github.com/DeHacker-io/audits_public/blob/main/MAP%20PROTOCOL%20SWAP.pdf) | 2024-11-15 |
+| Map Protocol Swap | Bridge | [link](https://github.com/DeHacker-io/audits_public/blob/main/MAP%20PROTOCOL%20SWAP.pdf) | 2024-11-21 |
 | Funton Ai | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Funton%20Ai.pdf) | 2024-11-6 |
 | NAWS.AI | DePin | [link](https://github.com/DeHacker-io/audits_public/blob/main/NAWS.AI.pdf) | 2024-11-5 |
 | CARV | DePin | [link](https://github.com/DeHacker-io/audits_public/blob/main/CARV.pdf) | 2024-11-1 |
