@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Numine | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Numine.pdf) | 2025-03-25 |
 | Zebec | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Zebec.pdf) | 2025-03-12 |
 | Hooked Protocol | SoFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Hooked%20Protocol.pdf) | 2025-02-11 |
 | Map Protocol Swap | Bridge | [link](https://github.com/DeHacker-io/audits_public/blob/main/MAP%20PROTOCOL%20SWAP.pdf) | 2024-11-21 |
