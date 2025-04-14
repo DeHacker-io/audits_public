@@ -5,7 +5,8 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
-| Vaulta| DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/EOS.pdf) | 2025-03-25 |
+| Life Bank Chain | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Life%20Bank%20Chain.pdf) | 2025-04-14 |
+| Vaulta | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/EOS.pdf) | 2025-03-25 |
 | Numine | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Numine.pdf) | 2025-03-25 |
 | Zebec | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Zebec.pdf) | 2025-03-12 |
 | Hooked Protocol | SoFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Hooked%20Protocol.pdf) | 2025-02-11 |
