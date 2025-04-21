@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| BlockchainFX | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/BlockchainFX.pdf) | 2025-04-21 |
 | Life Bank Chain | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Life%20Bank%20Chain.pdf) | 2025-04-14 |
 | Vaulta | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/EOS.pdf) | 2025-03-25 |
 | Numine | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Numine.pdf) | 2025-03-25 |
