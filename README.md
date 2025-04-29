@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| Nexchain | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Nexchain.pdf) | 2025-04-29 |
 | Infinitar | GameFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Infinitar.pdf) | 2025-04-23 |
 | BlockchainFX | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/BlockchainFX.pdf) | 2025-04-21 |
 | Life Bank Chain | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Life%20Bank%20Chain.pdf) | 2025-04-14 |
