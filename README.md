@@ -5,6 +5,7 @@
 ## Audit list
 | Project | Type | Audit Report | Release Date (YYYY-MM-DD) |
 |---|---|---|---|
+| DI | Ai | [link](https://github.com/DeHacker-io/audits_public/blob/main/DI.pdf) | 2025-09-20 |
 | Kingnet | Ai | [link](https://github.com/DeHacker-io/audits_public/blob/main/Kingnet.pdf) | 2025-07-21 |
 | Miro | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Miro.pdf) | 2025-04-5 |
 | Nexchain | DeFi | [link](https://github.com/DeHacker-io/audits_public/blob/main/Nexchain.pdf) | 2025-04-29 |
